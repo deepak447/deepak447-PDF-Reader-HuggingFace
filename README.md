@@ -1,1 +1,1 @@
-# deepak447-PDF-Reader-HuggingFace
+# PDF-Reader-HuggingFace
