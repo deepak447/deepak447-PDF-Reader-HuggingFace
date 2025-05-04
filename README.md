@@ -37,5 +37,23 @@ MediBot is an AI-powered chatbot that can answer questions based on medical PDF 
 ---
 
 ## 📂 Folder Structure
+├── vectorstore/ # FAISS vector database
+├── app.py # Streamlit application file
+├── requirements.txt # Python dependencies
+├── .env # Contains HF_TOKEN
+└── README.md # Project documentation
+
+## 🧪 How to Run Locally
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/yourusername/medibot
+cd medibot
+```
+2. **Install dependencies**
+   ```pip install -r requirements.txt```
+3 . **Run the app**
+   ```streamlit run app.py```
 
 
